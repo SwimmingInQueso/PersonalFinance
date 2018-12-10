@@ -6,6 +6,7 @@
 # 5) What's going on with uber transactions
 
 print("poop")
+print "Mala"
 
 import numpy as np
 import pandas as pd
